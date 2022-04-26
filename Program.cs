@@ -9,7 +9,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             // Randomly generate a number between 1 and 100
             Random randomGenerator = new Random();
-            int number = randomGenerator.Next(0 , 100);
+            int number = randomGenerator.Next(1 , 100);
             Console.WriteLine($"{number}");
             string GuessString = "";
             int Guess = 0;
