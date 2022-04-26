@@ -1,0 +1,15 @@
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\bin\Debug\net6.0\Solo prep 3.exe
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\bin\Debug\net6.0\Solo prep 3.deps.json
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\bin\Debug\net6.0\Solo prep 3.runtimeconfig.json
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\bin\Debug\net6.0\Solo prep 3.dll
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\bin\Debug\net6.0\Solo prep 3.pdb
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.csproj.AssemblyReference.cache
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.AssemblyInfoInputs.cache
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.AssemblyInfo.cs
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.csproj.CoreCompileInputs.cache
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.dll
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\refint\Solo prep 3.dll
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.pdb
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\Solo prep 3.genruntimeconfig.cache
+C:\Users\Brenn\OneDrive\Spring 2022\CSE - 210\Solo prep 3\obj\Debug\net6.0\ref\Solo prep 3.dll
